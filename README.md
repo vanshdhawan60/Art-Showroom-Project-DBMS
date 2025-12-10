@@ -24,7 +24,7 @@ The Art Museum and Showroom Database Management System is designed to streamline
 
 ## Contributors
 - [Vansh Dhawan](https://github.com/vanshdhawan60)
-- [Yash Jain]()
+- [Yash Jain](https://github.com/YashJain705)
   
 ## Acknowledgments
 - Special thanks to [Mr. Rohit Beniwal] for his guidance and support.
